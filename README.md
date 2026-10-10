@@ -57,4 +57,7 @@ If you are interested in the project, community-focused technology or collaborat
   <a href="https://drop2-earn.vercel.app">
     <img src="https://img.shields.io/badge/Live_App-Drop2Earn-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Drop2Earn live application" />
   </a>
+  <a href="https://zm.linkedin.com/in/phineas-mwale-6b7315258">
+    <img src="https://img.shields.io/badge/LinkedIn-Phineas_Mwale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
 </p>
